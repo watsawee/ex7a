@@ -1,0 +1,29 @@
+[33mcommit af9fe601592b22e64f000e504bcccf0a47051fa8[m[33m ([m[1;36mHEAD -> [m[1;32mfeature_potchanan[m[33m, [m[1;31morigin/feature_potchanan[m[33m)[m
+Author: sunkittitat <tanapattanalux@gmail.com>
+Date:   Thu Mar 7 11:49:28 2024 +0700
+
+    add word count feature to the function
+
+[33mcommit fb18b32a25278df0a844f583e98bf5a6179669d2[m
+Author: sunkittitat <tanapattanalux@gmail.com>
+Date:   Thu Mar 7 11:22:11 2024 +0700
+
+    add readline function
+
+[33mcommit 3f056b3e3c827c1b2cdb8279b995e938a15127e0[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: watsawee <watsawee@gmail.com>
+Date:   Thu Mar 7 11:05:50 2024 +0700
+
+    Update index.js - add parameter receiving
+
+[33mcommit b4830844788291261c7a5362b9ed864bda4b24ae[m
+Author: watsawee <watsawee@gmail.com>
+Date:   Thu Mar 7 10:27:28 2024 +0700
+
+    add a new REST API - wordcnt
+
+[33mcommit 3842f098f087d6248dd93d055243ddfb78f16111[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Watsawee <watsawee_san@utcc.ac.th>
+Date:   Wed Mar 23 06:32:44 2022 +0700
+
+    initial commit - adding all files
